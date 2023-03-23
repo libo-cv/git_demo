@@ -7,3 +7,5 @@ my frist name is zhang
 
 解决BUG
 
+
+添加功能
